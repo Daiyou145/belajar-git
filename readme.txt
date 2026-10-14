@@ -1,1 +1,2 @@
 Nama: Dio
+Hobi : Main
