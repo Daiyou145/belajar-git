@@ -1,0 +1,2 @@
+Dark Mode Toggle (Mode Hitam)
+Tombol sederhana untuk mengubah tema visual menjadi hitam. Fitur ini sangat disukai pengguna karena menghemat baterai ponsel dan mengurangi ketegangan pada mata
